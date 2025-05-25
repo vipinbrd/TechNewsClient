@@ -1,0 +1,27 @@
+.slide-enter {
+    transform: translateY(100%); 
+    opacity: 0;
+}
+.slide-enter-active {
+    transform: translateY(0);
+    opacity: 1;
+    transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+}
+.slide-exit {
+    transform: translateY(0);
+    opacity: 1;
+}
+.slide-exit-active {
+    transform: translateY(100%); 
+    opacity: 0;
+    transition: transform 0.6s ease-in-out, opacity 0.6s ease-in-out;
+}
+
+
+.slide-enter-active {
+    box-shadow: 0 6px 30px rgba(0, 0, 0, 0.1); 
+}
+
+.slide-exit-active {
+    box-shadow: none;
+}
