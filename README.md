@@ -1,6 +1,6 @@
 # TechNews
 
-TechNews Hub is a modern, dynamic web application that delivers the latest technology news and updates in an elegant, user-friendly interface. Built with React, Redux, and Tailwind CSS on the frontend, and powered by a robust Spring Boot and MySQL backend, TechNews Hub keeps tech enthusiasts informed with fresh articles, categorized news, and intuitive navigation.
+TechNews is a modern, dynamic web application that delivers the latest technology news and updates in an elegant, user-friendly interface. Built with React, Redux, and Tailwind CSS on the frontend, and powered by a robust Spring Boot and MySQL backend, TechNews Hub keeps tech enthusiasts informed with fresh articles, categorized news, and intuitive navigation.
 
 ---
 
@@ -21,7 +21,7 @@ TechNews Hub is a modern, dynamic web application that delivers the latest techn
 - **Frontend**: React, Redux, React Router, Tailwind CSS, Vite
 - **Backend**: Spring Boot, MySQL, REST API
 - **Authentication**: JWT-based secure login
-- **Hosting**: (Add your hosting details here, e.g. AWS, Heroku, etc.)
+- **Hosting**:AWS
 
 ---
 
